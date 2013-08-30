@@ -1,0 +1,51 @@
+DEFN-NAME,PARENT[NAME<TYPE>],INST-NAME,LAYER,MATERIAL,ID,X,Y,Z,AREA,SUB-MAT-AREAS
+
+'2X4_05','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7920,1 1/2",3 1/2",2' 11 1/2",0.23580598,333
+'2X4_05','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7923,1 1/2",3 1/2",2' 11 1/2",0.23580598,333
+'2X4_05','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7938,3 1/2",1 1/2",2' 11 1/2",0.23580598,333
+'2X4_05','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7941,3 1/2",1 1/2",2' 11 1/2",0.23580598,333
+'2X4_05','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7942,3 1/2",1 1/2",2' 11 1/2",0.23580598,333
+'2X4_05','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7943,3 1/2",1 1/2",2' 11 1/2",0.23580598,333
+'2X4_08','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7964,3' 9",1 1/2",3 1/2",0.29709618,333
+'2X4_09','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7965,1 1/2",5' 9",3 1/2",0.45193458,333
+'2x4_01','Electronics_Workbench-02'<Model>,'','Layer0','Material1',7919,1 1/2",6',3 1/2",0.47128938,333
+'2x4_01','Electronics_Workbench-02'<Model>,'','Layer0','Material1',7922,1 1/2",6',3 1/2",0.47128938,333
+'2x4_01','Electronics_Workbench-02'<Model>,'','Layer0','Material1',8024,1 1/2",6',3 1/2",0.47128938,333
+'2x4_01','Electronics_Workbench-02'<Model>,'','Layer0','Material1',8035,1 1/2",6',3 1/2",0.47128938,333
+'2x4_02','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7967,1 1/2",3 1/2",5' 2 1/2",0.40999918,333
+'2x4_02','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7975,1 1/2",3 1/2",5' 2 1/2",0.40999918,333
+'2x4_02','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7976,1 1/2",3 1/2",5' 2 1/2",0.40999918,333
+'2x4_02','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7977,1 1/2",3 1/2",5' 2 1/2",0.40999918,333
+'2x4_03','Electronics_Workbench-02'<Model>,'','Layer0','01',7916,1' 3",1 1/2",3 1/2",0.10354818,333
+'2x4_03','Electronics_Workbench-02'<Model>,'','Layer0','01',7917,1' 3",1 1/2",3 1/2",0.10354818,333
+'2x4_03','Electronics_Workbench-02'<Model>,'','Layer0','01',7932,1' 3",1 1/2",3 1/2",0.10354818,333
+'2x4_03','Electronics_Workbench-02'<Model>,'','Layer0','01',7933,1' 3",1 1/2",3 1/2",0.10354818,333
+'2x4_03','Electronics_Workbench-02'<Model>,'','Layer0','01',7934,1' 3",1 1/2",3 1/2",0.10354818,333
+'2x4_03','Electronics_Workbench-02'<Model>,'','Layer0','01',7935,1' 3",1 1/2",3 1/2",0.10354818,333
+'2x4_04','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7924,2' 3",1 1/2",3 1/2",0.18096738,333
+'2x4_04','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7925,2' 3",1 1/2",3 1/2",0.18096738,333
+'2x4_04','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7926,2' 3",1 1/2",3 1/2",0.18096738,333
+'2x4_04','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7927,2' 3",1 1/2",3 1/2",0.18096738,333
+'2x4_04','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7928,2' 3",1 1/2",3 1/2",0.18096738,333
+'2x4_04','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7929,2' 3",1 1/2",3 1/2",0.18096738,333
+'2x4_04','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7930,2' 3",1 1/2",3 1/2",0.18096738,333
+'2x4_04','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7931,2' 3",1 1/2",3 1/2",0.18096738,333
+'2x4_04','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7936,2' 3",1 1/2",3 1/2",0.18096738,333
+'2x4_04','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7937,2' 3",1 1/2",3 1/2",0.18096738,333
+'2x4_06','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7953,1 1/2",1' 9",3 1/2",0.14225778,333
+'2x4_06','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7954,1 1/2",1' 9",3 1/2",0.14225778,333
+'2x4_06','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7955,1 1/2",1' 9",3 1/2",0.14225778,333
+'2x4_06','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7956,1 1/2",1' 9",3 1/2",0.14225778,333
+'2x4_06','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7957,1 1/2",1' 9",3 1/2",0.14225778,333
+'2x4_06','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7958,1 1/2",1' 9",3 1/2",0.14225778,333
+'2x4_06','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7959,1 1/2",1' 9",3 1/2",0.14225778,333
+'2x4_06','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7960,1 1/2",1' 9",3 1/2",0.14225778,333
+'2x4_07','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7939,4',1 1/2",3 1/2",0.31645098,333
+'2x4_07','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7940,4',1 1/2",3 1/2",0.31645098,333
+'Derrick','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7910,~ 5' 1 3/16",~ 5' 1 3/16",~ 5' 10 5/8",0.641188058259079,333
+'Rodeo#2','Derrick'<Component>,'','Layer0','<Default>',7058,~ 1' 7 3/8",0",~ 9 5/8",0.0781768731791049,333
+'bolt','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7973,3 5/8",1/2",1/2",0.00214520080159302,333
+'bolt','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7974,3 5/8",1/2",1/2",0.00214520080159302,333
+'ply_01','Electronics_Workbench-02'<Model>,'','Layer0','[0020_Red]',7921,2' 6",6',3/4",2.67289788,333
+'ply_02','Electronics_Workbench-02'<Model>,'','Layer0','Material1',7918,1' 6",6',3/4",1.75935132,333
+'ply_03','Electronics_Workbench-02'<Model>,'','Layer0','<Default>',7944,4',2',3/4",1.55612592,333
